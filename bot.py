@@ -92,8 +92,8 @@ def search_topic(driver, topic):
 def main():
     """Main function to run the Instagram automation."""
     # It's recommended to load sensitive information like username and password from environment variables
-    username = "savage331"  # Replace with your Instagram username or load from environment
-    password = "Parolasavage33."  # Replace with your Instagram password or load from environment
+    username = "username"  # Replace with your Instagram username or load from environment
+    password = "Password"  # Replace with your Instagram password or load from environment
 
     driver = setup_driver()
 
